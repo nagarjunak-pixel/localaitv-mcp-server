@@ -1,0 +1,9 @@
+.env
+*.env
+*.key
+*.pem
+credentials.json
+secrets.json
+service-account*.json
+venv/
+__pycache__/
