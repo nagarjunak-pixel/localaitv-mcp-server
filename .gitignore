@@ -7,3 +7,6 @@ secrets.json
 service-account*.json
 venv/
 __pycache__/
+
+# Python virtual environment - never commit (added 2026-10-19)
+.venv/
